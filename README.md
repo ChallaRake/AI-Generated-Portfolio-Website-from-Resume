@@ -163,3 +163,12 @@ components.html(html_content, height=700, scrolling=True)
 ```
 
 ---
+<img width="1915" height="1087" alt="Screenshot 2025-12-16 104619" src="https://github.com/user-attachments/assets/87e3c905-7210-485c-9162-e2727df81737" />
+
+---
+<img width="1918" height="1088" alt="Screenshot 2025-12-16 105121" src="https://github.com/user-attachments/assets/201b7cc1-ba7c-425f-9666-cbfad4cc5076" />
+
+---
+<img width="1919" height="1088" alt="Screenshot 2025-12-16 104658" src="https://github.com/user-attachments/assets/3c522911-b235-42e2-b314-35874ce51228" />
+
+---
