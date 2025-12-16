@@ -161,7 +161,13 @@ zip.write("script.js")
 ```python
 components.html(html_content, height=700, scrolling=True)
 ```
+---
+## 📹 Demo Video
 
+👉 **Watch the full video here:**  
+### [*AI-Generated Portfolio Website*](https://www.linkedin.com/posts/challa-rakesh-reddy_ai-genai-streamlit-activity-7406634832547450880-tnsq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7NTjAB5LIcCGe6w75x6giyS2sV95rQD14)
+
+---
 ---
 <img width="1915" height="1087" alt="Screenshot 2025-12-16 104619" src="https://github.com/user-attachments/assets/87e3c905-7210-485c-9162-e2727df81737" />
 
